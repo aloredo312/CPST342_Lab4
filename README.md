@@ -50,6 +50,6 @@ Make sure your branch is clean prior to pushing up changes.  Make sure the chang
 
 [How to deploy Github Repo to Heroku](https://medium.com/featurepreneur/how-to-connect-github-to-heroku-be6ff27419d3)
 
-### Adrian Loredo CPST342
+### Adrian Loredo CPST342 12/12/23
 
 https://grocery-list-app-4-c89ccbde4219.herokuapp.com/
